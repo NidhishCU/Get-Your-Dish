@@ -11,3 +11,6 @@ trending, plan your meals with our grocery list tool, and browse recipes by ingr
 - Favorite recipes are also stored in the local storage of the client's browser
 # Hoisted Link
  https://food-verse-masud.netlify.app/
+
+ ![image](https://github.com/DrNKGupta/Get-Your-Dish/assets/98959174/1aa0d7b6-31b9-471a-84b4-7b4fcf6c69ae)
+
